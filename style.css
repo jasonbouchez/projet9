@@ -1,0 +1,66 @@
+*{
+    margin: 2;
+    padding: 0;
+}
+
+.headd{
+ background-color: black;
+ height: 160px;
+}
+
+.imgheadd{
+    height: 120px;
+    width: 1620px;
+}
+
+.button{
+    text-align: center;
+    margin-top: -10px;
+}
+
+.message {
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px 0;
+}
+
+.message-success {
+    background-color: #d4edda; /* Green */
+    color: #155724; /* Dark Green */
+}
+
+.message-error {
+    background-color: #f8d7da; /* Red */
+    color: #721c24; /* Dark Red */
+}
+
+
+.body{
+background-color: grey;
+
+}
+
+.col-4{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.card-body{
+    background-color: white;
+    margin: 5px;
+}
+
+.card-text{
+text-align: center;
+}
+
+.card{
+    margin-top: 15px;
+}
+
+.ajout{
+text-align: center;
+}
+
